@@ -2,7 +2,6 @@
 
 sudo apt install -y \
 acpi \
-alsa-base \
 alsa-utils \
 anacron \
 audacious \
@@ -11,7 +10,6 @@ avahi-autoipd \
 avahi-daemon \
 azote \
 bc \
-bluetuith \
 bluez \
 bluez-cups \
 bluez-obexd \
@@ -29,13 +27,11 @@ dracut \
 drm-info \
 engrampa \
 fastfetch \
-firefox \
 fontconfig \
 fonts-arphic-ukai \
 fonts-arphic-uming \
 fonts-dejavu-core \
 fonts-font-awesome \
-fonts-font-awesome-6 \
 fonts-hack \
 fonts-liberation \
 fonts-liberation2 \
@@ -43,7 +39,6 @@ fonts-noto-cjk \
 fonts-noto-color-emoji \
 fonts-noto-core \
 fonts-opensymbol \
-fonts-ubuntu \
 foot \
 foomatic-db-compressed-ppds \
 fwupd \
@@ -71,7 +66,6 @@ inotify-tools \
 inxi \
 inputattach \
 iw \
-language-selector-common \
 laptop-detect \
 libfuse2t64 \
 libglib2.0-bin \
@@ -79,7 +73,6 @@ libnss-mdns \
 libreoffice-calc \
 libreoffice-gtk3 \
 libreoffice-impress \
-libreoffice-style-yaru \
 libreoffice-writer \
 libsasl2-modules \
 lximage-qt \
@@ -91,15 +84,12 @@ mesa-utils \
 mobile-broadband-provider-info \
 modemmanager \
 mpv \
-musikcube \
 neovim \
 network-manager \
 nwg-bar \
 nwg-clipman \
 nwg-displays \
-nwg-drawer \
 nwg-look \
-nwg-wrapper \
 openprinting-ppds \
 packagekit \
 pavucontrol \
@@ -109,12 +99,8 @@ pipewire-audio \
 playerctl \
 plocate \
 pluma \
-plymouth-theme-ubuntu-sway-logo \
-plymouth-theme-ubuntu-sway-text \
-policykit-desktop-privileges \
 power-profiles-daemon \
 poweralertd \
-ppa-purge \
 printer-driver-brlaser \
 printer-driver-c2esp \
 printer-driver-foo2zjs \
@@ -138,31 +124,21 @@ rfkill \
 simple-scan \
 slurp \
 snapd \
-software-properties-gtk \
 spice-vdagent \
 swappy \
 sway \
-sway-input-config \
-sway-systemd \
 swaybg \
 swayidle \
 swaykbdd \
-swayr \
 system-config-printer \
 systemd-oomd \
 thermald \
 transmission-gtk \
 tuigreet \
-ubuntu-drivers-common \
-ubuntu-sway-artwork \
-ubuntu-sway-default-settings \
-ubuntu-sway-grub-theme \
-ubuntu-sway-welcome \
 udisks2 \
 unzip \
 update-notifier \
 upower \
-usb-creator-gtk \
 usb-modeswitch \
 vulkan-tools \
 waybar \
